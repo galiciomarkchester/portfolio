@@ -1,5 +1,5 @@
 body {
-	background: url(../images/bg2.jpg) no-repeat center center fixed;
+	background: url(../images/bg.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -16,16 +16,20 @@ margin-bottom: 0;
 }
 h2 {
 	color: white;
-	font-size: 18px;
+	font-size: 25px;
 	margin-top: 0
 }
 .bio {
 	color: white;
-	font-size: 14px;
+	font-size: 20px;
+	text-align: center;
+	padding-right: 200px;
+	padding-left: 200px;
+
 }
 .me {
 	height: 150px;
-	border-radius: 100%;
+	border-radius: 20%;
 	border-style: solid;
 	border-color: white;
 	margin: 40px auto;
