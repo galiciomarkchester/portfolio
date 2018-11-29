@@ -29,7 +29,7 @@ h2 {
 }
 .me {
 	height: 150px;
-	border-radius: 100%;
+	border-radius: 20%;
 	border-style: solid;
 	border-color: white;
 	margin: 40px auto;
