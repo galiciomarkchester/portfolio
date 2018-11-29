@@ -4,7 +4,7 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Lora', serif;
 	text-align: center;
 
 }
@@ -29,7 +29,7 @@ h2 {
 }
 .me {
 	height: 150px;
-	border-radius: 20%;
+	border-radius: 100%;
 	border-style: solid;
 	border-color: white;
 	margin: 40px auto;
